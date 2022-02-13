@@ -1,0 +1,3 @@
+* ~enchant~
+
+This is a small Swift program that duplicates the functionality of the ~ispell~ program. I wrote it to get better output when spell-checking text from Emacs. It is pre-alpha.
